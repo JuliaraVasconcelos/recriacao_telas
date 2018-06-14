@@ -1,0 +1,85 @@
+main {
+    min-height:560px;
+}
+.colunas {
+    column-count: 2;
+    column-gap: 0;
+    column-span: none;
+}
+.coluna1 {
+    top: 0;
+    color: #fff;
+    font-weight: bold;
+    background-image: url ("https://logodownload.org/wp-content/uploads/2014/09/twitter-logo-1.png");
+    background-position: center;
+    background-color: #3399ff;
+    padding-top: 180px;
+    padding-left: 100px;
+    padding-bottom: 180px;
+    line-height: 3;
+    font-size: 23px;
+    font-family: "Segoe UI", "Arial" ,sans-serif;
+}
+.coluna2 {
+    min-height: 417px; 
+    background-color: #fff;
+    padding-top: 150px;
+    padding-left: 150px;
+    font-family: "Segoe UI", "Arial" ,sans-serif;
+    line-height: 1.4;
+}
+.entrarum {
+    border: 1px solid #3399ff;
+    width: 35px;
+    padding: 10px;
+    color: #3399ff;
+    border-radius: 30px;
+    font-size: 12px;
+    text-align: center;
+    float: right;
+    margin-right: 180px;
+    font-family: "Segoe UI", "Arial" ,sans-serif;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+.linhaum {
+    font-size: 26px;
+    font-weight: bold;
+    padding-bottom: 50px;
+    font-family: "Segoe UI", "Arial" ,sans-serif;
+}
+.linhadois {
+    font-size: 20px;
+    padding-bottom: 10px;
+    font-weight: bold;
+}
+.inscricao {
+    background-color: #3399ff;
+    width: 350px;
+    border-radius: 20px;
+    padding: 5px;
+    text-align: center;
+    color: #fff;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+.entrardois {
+    width: 350px;
+    border: 1px solid #3399ff;
+    border-radius: 20px;
+    padding: 5px;
+    text-align: center;
+    color: #3399ff;
+    font-weight: bold;
+}
+.rodape {
+    line-height: 1.8;
+    bottom: 0;
+    left: 0;
+    background-color: #fff;
+    padding-top: 20px;
+    font-size: 13px;
+    font-family: "arial"; "serif";
+    text-align: center;
+    border-top: 1px solid #c3c3c3;
+}

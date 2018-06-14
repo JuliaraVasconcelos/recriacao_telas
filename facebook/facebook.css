@@ -1,0 +1,183 @@
+html {
+    position: relative;
+    margin: 0;
+    padding: 0;
+}
+.topo {
+    background-color: #3b5599;
+    width: 100%;
+    height: 80px;
+    padding-top: 10px;
+}
+nav {
+    display: inline-block;
+}
+body {
+    background-color: #ebf0fa;
+    font-family: "arial";
+    display: block;
+    min-height: 800px;
+}
+main {
+    padding-bottom: 100px;
+    line-height: 1.7;
+    
+}
+.facebookhome a {
+    color: inherit;
+}
+.facebookhome {
+    background-image: url(http://fbinfer.com/static/images/facebook.png);
+    background-size: 200px;
+    background-repeat: no-repeat;
+    background-position: center;
+    display: inline-block;
+    color: transparent;
+    font-size: 60px;
+    padding-left: 200px;
+    padding-top: 0px;
+}
+#login {
+    float: right;
+    display: inline-block;
+    padding-right: 200px;
+    padding-top: 13px;
+    color: #fff;
+    font-size: 12px;
+}
+.login {
+    
+}
+.textoapresentacao {
+    float: left;
+    left: 50px;
+    color: #3b5599;
+    font-size: 20px;
+    padding-left: 130px;
+    padding-top: 40px;
+    font-family: "arial", "sans-serif";
+    font-style: bold;
+}
+.formularionovaconta {
+    float: right;
+    right: 20px;
+    color: #262626;
+    font-size: 20px;
+    padding-right: 150px;
+    padding-top: 20px;
+}
+.formularionovo {
+    padding-top: 5px;
+    line-height: 2.4;
+    
+}
+.linhaum {
+    font-family: "arial", "sans-serif";
+    font-style: bold;
+    font-size: 35px;
+}
+.linhadois {
+    font-family: "helvetica", "arial", "sans-serif";
+    font-style: normal;
+    font-size: 20px;
+}
+strong {
+    font-weight: bold;
+}
+input[type="text1"] {
+    height: 20px;
+    width: 140px;
+    border: 1px solid #c3c3c3;
+    padding-left: 20px;
+}
+input[type="submit"] {
+    height: 25px;
+    border-radius: 2px;
+    border: 1px solid #000066;
+    background-color: #4767b8;
+    color: #fff;
+}
+input[type="text"] {
+    height: 30px;
+    border-radius: 5px;
+    border: 1px solid #c3c3c3;
+}
+input[name="nome"] {
+    width: 200px;
+    font-size: 16px;
+    padding-left: 10px;
+    font-weight: bold;
+    height: 36px;
+}
+input[name="sobrenome"] {
+    width: 200px;
+    font-size: 16px;
+    padding-left: 10px;
+    font-weight: bold;
+    height: 36px;
+}
+input[name="celemail"] {
+    width: 417px;
+    font-size: 16px;
+    padding-left: 10px;
+    font-weight: bold;
+    height: 36px;
+}
+input[name="novasenha"] {
+    width: 417px;
+    font-size: 16px;
+    padding-left: 10px;
+    font-weight: bold;
+    height: 36px;
+}
+.nascimento {
+    font-size: 20px;
+}
+.sexo {
+    font-size: 18px;
+    padding-top: 10px;
+}
+.idade {
+    font-size: 11px;
+    line-height: normal;
+    display: inline-block;
+    padding-left: 10px;
+    
+}
+.compromisso {
+    font-size: 11px;
+    line-height: normal;
+    padding-bottom: 20px;
+    padding-top: 10px;
+}
+.cadastro {
+    background-color: #62a350;
+    border-radius: 5px;
+    width: 200px;
+    height: 40px;
+    color: #fff;
+    font-size: 20px;
+    text-shadow: 1px 1px #4d4d4d;
+}
+.corp {
+    font-size: 14px;
+    font-weight: bold;
+    padding-top: 20px;
+}
+footer {
+    position: absolute;
+    background-color:#fff;
+    height:150px;
+    width:97%;
+    left: 0;
+    bottom: 0;
+    padding-top: 10px;
+    padding-left: 70px;
+    font-size: 13px;
+    line-height: 2;
+    padding-right: 0;
+}
+.idioma {
+    
+    
+}
